@@ -1,6 +1,6 @@
 let user = {
     name:'cristian',
-    lastName: 'claro argueles'
+    lastName: 'claro arguelles'
 }
 
 function show() {
